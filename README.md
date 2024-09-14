@@ -155,7 +155,11 @@ Contributions are welcome! Feel free to open a pull request to improve the proje
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
----
+---![g1](https://github.com/user-attachments/assets/2150e135-30b6-4839-9ae2-2ebc5c4fb94a)
+![g3](https://github.com/user-attachments/assets/1c6b3ae1-34f6-472f-b46f-f03777c03dbd)
+
+
+![g2](https://github.com/user-attachments/assets/22e2e953-ca2d-4a35-81b6-0b600ffdcdf2)
 
 Enjoy discovering new movies!
 
