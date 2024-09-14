@@ -1,6 +1,4 @@
-Here is your `README.md` file without the asterisks (`*`) and hashes (`#`):
 
----
 
 🎥 Movie Recommender System
 
